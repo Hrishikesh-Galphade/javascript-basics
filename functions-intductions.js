@@ -28,10 +28,7 @@ history_percent = marks[4]/outofMarks[4];
 console.log(marks[4])
 console.log(outofMarks[4])
 console.log(history_percent)
-
 console.log("-----------------With Functions-----------------------------")
-
-
 
 function devide(marks,outofMarks)
 {
@@ -51,9 +48,7 @@ history_percent = devide(marks[4],outofMarks[4]);
 
 console.log("-----------------With Functions and for loop-----------------------------")
 
-
 for(var i=0;i< marks.length;i=i+1)
 {
-    devide(marks[i],outofMarks[i]);
-    
+    devide(marks[i],outofMarks[i]);    
 }
