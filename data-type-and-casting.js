@@ -29,4 +29,6 @@ console.log(10+20+"abc")//30abc
 console.log(10+20+"abc"+30+40)//30abc3040
 console.log("abc"+30+40)//abc3040
 console.log(true+1)//abc3040 inter true =1
-console.log(false+1)//abc3040 inter false =0
+console.log(false+1+"sdsd"+10+10)//abc3040 inter false =0
+console.log(10+20+"abc"-30-40)//Nan
+console.log(true+true)//2
