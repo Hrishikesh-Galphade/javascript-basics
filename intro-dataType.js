@@ -1,18 +1,23 @@
 var a=2;
 console.log(a);
 console.log(typeof a)
+
 var b=2.3;
 console.log(b);
 console.log(typeof b)
+
 var c='H';
 console.log(c);
 console.log(typeof c)
+
 var s="Hello World";
 console.log(s);
 console.log(typeof s)
+
 var t= true;
 console.log(t);
 console.log(typeof t)
+
 var k;
 console.log(k);
 console.log(typeof k)

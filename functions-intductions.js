@@ -3,6 +3,8 @@
 
 var marks = [70,80,90,89,50];
 var outofMarks=[100,100,100,100,50];
+
+
 console.log("-----------------Without Functions-----------------------------")
 marathi_percent = marks[0]/outofMarks[0];
 console.log(marks[0])

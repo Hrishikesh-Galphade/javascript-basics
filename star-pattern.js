@@ -126,3 +126,9 @@ for(var i=1;i<= row;i++)
         console.log(str);
     }
 
+
+//------------------
+
+//let a=10
+//const a=10;
+
